@@ -1,0 +1,13 @@
+node_modules/
+.selftest/
+.build/
+o*.json
+o*.txt
+o*.html
+o*.js
+o*.code
+e*.json
+m*.json
+big.json
+body.json
+test-report.txt
